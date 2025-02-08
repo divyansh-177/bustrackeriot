@@ -1,7 +1,8 @@
+Polygon Area Calculator
+
 The project is based on bus tracking system that is designed to give a real time location of different
 
-buses at different bus stations. We will be monitoring the bus location using RFID sensors, tags.
-Users can get personalized updates about a particular bus in which he/she wants to travel. User will
+buses at different bus stations. We will be monitoring the bus location using RFID sensors, tags. Users can get personalized updates about a particular bus in which he/she wants to travel. User will
 get bus location, arrival/departure timing at different bus station and bus routes, providing
 passengers with an intuitive interface to check if their bus has reached a station or left. With the
 help of tracking user can see how far the bus is, this allows user to plan their route and travel plan
