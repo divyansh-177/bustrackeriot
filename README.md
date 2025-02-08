@@ -30,13 +30,8 @@ information about a bus.
 INTRODUCTION
 
 Motivation behind this project-
-Public transportation, especially buses is a lifeline of millions of Indians. Every person find bus as the
-
-easiest way of transportation. Whether in rural or urban, whether going far distances or small, buses
-are first choice of Indians. However, one of the most common challenges faced by them is
-unpredictable timing of arrival and departure of the buses, unknown routes of the bus. This
-problem leads to long waiting time in bus stations, confusion about route of the bus. This major
-problem causes inefficiency in bus transportation.
+Public transportation, especially buses is a lifeline of millions of Indians. Every person find bus as theeasiest way of transportation. Whether in rural or urban, whether going far distances or small, buses
+are first choice of Indians. However, one of the most common challenges faced by them is unpredictable timing of arrival and departure of the buses, unknown routes of the bus. Thisproblem leads to long waiting time in bus stations, confusion about route of the bus. This major problem causes inefficiency in bus transportation.
 In a densely populated country like India where urban mobility, time is very important for everyone
 there is a need of system that gives real time location of the bus a person wants to travel in so that
 he/she gets timely update about the bus, they do not waste hours in waiting for that bus. Such a
@@ -45,6 +40,7 @@ information so that their journey can become stress free.
 Statistics Data on the Need for a Real-Time Bus Tracking System in India:
 Over 70% of urban population in India depend on public transportation, with buses being the most
 common mode of commute.
+
 1.Unpredictability of Bus Services- 60% of passengers frequently experience delays, with waiting
 times extended by 20 to 30 minutes at bus stops due to the absence of real-time tracking systems.
 
@@ -67,15 +63,18 @@ public transportation.
 
 Unique Functionality of the project-
 1.Real time bus location tracking-The system uses RFID sensors, ESP-32 and IoT technology to
-
 provide real-time updates on the location of the bus. Users can check bus arrival and departure
 accurately.
+
 2.Bus Timing detection- Users can see the bus arrival and departure timing at different stations,
 helping them to schedule their trip accordingly.
+
 3.No dependency on third party- As we are not using GPS to track the bus so there is no dependency
 on third party like satellites.
+
 3. Real-Time Alerts for Users- The system can send notifications to Users through mobile
 applications or digital displays, informing them of bus status, delays, or route changes.
+
 4.Accurate information about buses-We are using RFID tags and sensors in place of GPS as it is
 highly accurate, cost effective and its independency on other devices.
 
