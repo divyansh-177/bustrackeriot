@@ -47,6 +47,7 @@ Over 70% of urban population in India depend on public transportation, with buse
 common mode of commute.
 1.Unpredictability of Bus Services- 60% of passengers frequently experience delays, with waiting
 times extended by 20 to 30 minutes at bus stops due to the absence of real-time tracking systems.
+
 2.Loss of Time and Productivity- 40% of urban passengers spend an additional 30 minutes or more
 each day waiting for buses due to schedule uncertainties. This results in a cumulative annual loss of
 hundreds of hours per individual, affecting productivity and personal time.
@@ -56,8 +57,10 @@ schedule due to inefficient routing and fleet management.
 
 4.Commuter Dissatisfaction- Over 40% of bus commuters are dissatisfied with the reliability of
 public bus services, citing issues such as unpredictable arrival times and frequent breakdowns.
+
 5.Shift Toward Private Vehicles-The inefficiency of the bus system has led to a gradual shift towards
 private vehicles, further increasing traffic congestion and pollution in cities.
+
 6.Scale of Public Bus Operations-There are over 1.2 million buses operating across India, highlighting
 the scale of the issue and the need for solutions like real-time tracking to improve the efficiency of
 public transportation.
