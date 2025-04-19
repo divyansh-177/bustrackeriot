@@ -1,4 +1,4 @@
-# **Polygon Area Calculator - Bus Tracking System**
+# ** Bus Tracking System**
 
 ## **Introduction**
 
